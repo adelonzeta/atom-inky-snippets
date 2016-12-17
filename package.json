@@ -1,0 +1,13 @@
+{
+  "name": "atom-inky-snippets",
+  "version": "0.0.0",
+  "description": "Snippets of Inky email templating language for Atom.",
+  "engines": {
+    "atom": "*"
+  },
+  "repository": "https://github.com/adelonzeta/atom-inky-snippets.git",
+  "bugs": {
+    "url": "https://github.com/adelonzeta/atom-inky-snippets/issues"
+  },
+  "license": "MIT"
+}

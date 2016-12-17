@@ -1,0 +1,84 @@
+'.text.html.basic':
+
+  'Inky Wrapper':
+    'prefix': 'wrapper'
+    'body': """
+      <wrapper class="$1">
+        $2
+      </wrapper>
+    """
+    'description': 'Wrapper creates the necessary structure to wrap elements so
+      that full width backgrounds can applied.'
+    'descriptionMoreURL': 'http://foundation.zurb.com/emails/docs/wrapper.html'
+
+  'Inky Container':
+    'prefix': 'container'
+    'body': """
+      <container>
+        $1
+      </container>
+    """
+    'description': 'All emails should have a container element. This gives the
+      email a maximum width for email clients on larger screens. It also
+      orients the email in the center.'
+    'descriptionMoreURL': 'http://foundation.zurb.com/emails/docs/grid.html#container'
+
+  'Inky Row':
+    'prefix': 'row'
+    'body': """
+      <row>
+        $1
+      </row>
+    """
+
+  'Inky Column':
+    'prefix': 'columns'
+    'body': """
+      <columns small="$1" large="$2">
+        $3
+      </columns>
+    """
+
+  'Inky Button':
+    'prefix': 'button'
+    'body': """
+      <button href="$1">$2</button>
+    """
+    'description': 'Buttons are convenient tools when you need more traditional
+      actions. To that end, Foundation has many easy to use button styles that
+      you can customize or override to fit your needs.'
+    'descriptionMoreURL': 'http://foundation.zurb.com/emails/docs/button.html'
+
+  'Inky Callout':
+    'prefix': 'callout'
+    'body': """
+      <callout>
+        $1
+      </callout>
+    """
+    'description': 'Formerly panels, callouts can be used to create sidebar
+      panels or call out important content in an email.'
+    'descriptionMoreURL': 'http://foundation.zurb.com/emails/docs/callout.html'
+
+  'Inky Spacer':
+    'prefix': 'spacer'
+    'body': '<spacer size="$1"></spacer>'
+    'description': 'Vertical spacing in emails is inconsistent. The spacer
+      component will help you create the space you need, the same on every
+      device and client.'
+    'descriptionMoreURL': 'http://foundation.zurb.com/emails/docs/spacer.html'
+
+  'Inky Menu':
+    'prefix': 'menu'
+    'body': """
+      <menu>
+        $1
+      </menu>
+    """
+    'description': 'Use the menu component to create a horizontal or vertical
+      list of links.'
+    'descriptionMoreURL': 'http://foundation.zurb.com/emails/docs/menu.html'
+
+  'Inky Menu Item':
+    'prefix': 'item'
+    'body': '<item href="$1">$2</item>'
