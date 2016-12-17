@@ -6,8 +6,12 @@
     "atom": "*"
   },
   "repository": "https://github.com/adelonzeta/atom-inky-snippets.git",
+  "homepage": "https://github.com/adelonzeta/atom-inky-snippets.git",
   "bugs": {
     "url": "https://github.com/adelonzeta/atom-inky-snippets/issues"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "readme": "Snippets of Inky email templating language for Atom.",
+  "readmeFilename": "README.md",
+  "dependencies": {}
 }
