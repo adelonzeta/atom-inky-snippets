@@ -1,5 +1,5 @@
 # Atom Inky Snippets
-Snippets of Inky email templating language for Atom.
+Inky email templating language snippets for Atom.
 
 ## Snippets Available
 * wrapper
