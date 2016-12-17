@@ -10,7 +10,7 @@
   "bugs": {
     "url": "https://github.com/adelonzeta/atom-inky-snippets/issues"
   },
-  "license": "MIT",
+  "license": "SEE LICENSE IN LICENSE.md",
   "readme": "Snippets of Inky email templating language for Atom.",
   "readmeFilename": "README.md",
   "dependencies": {}
