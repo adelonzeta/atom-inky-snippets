@@ -1,6 +1,6 @@
 {
   "name": "atom-inky-snippets",
-  "version": "0.2.0",
+  "version": "0.0.0",
   "description": "Snippets of Inky email templating language for Atom.",
   "engines": {
     "atom": "*"
