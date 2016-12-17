@@ -1,7 +1,7 @@
 {
   "name": "atom-inky-snippets",
   "version": "1.0.2",
-  "description": "Snippets of Inky email templating language for Atom.",
+  "description": "Inky email templating language snippets for Atom.",
   "engines": {
     "atom": "*"
   },
@@ -10,8 +10,8 @@
   "bugs": {
     "url": "https://github.com/adelonzeta/atom-inky-snippets/issues"
   },
-  "license": "SEE LICENSE IN LICENSE.md",
-  "readme": "Snippets of Inky email templating language for Atom.",
+  "license": "MIT",
+  "readme": "Inky email templating language snippets for Atom.",
   "readmeFilename": "README.md",
   "dependencies": {}
 }
