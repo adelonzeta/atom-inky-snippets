@@ -82,3 +82,11 @@
   'Inky Menu Item':
     'prefix': 'item'
     'body': '<item href="$1">$2</item>'
+
+  'Inky Center':
+    'prefix': 'center'
+    'body': """
+      <center>
+        $1
+      </center>
+    """
